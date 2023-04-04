@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/cenkalti/backoff/v4 v4.1.1
-	github.com/docker/docker v20.10.8+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/fatih/color v1.12.0
 	github.com/fiorix/go-smpp v0.0.0-20210403173735-2894b96e70ba
